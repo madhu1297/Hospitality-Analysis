@@ -17,7 +17,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ![Data model](https://github.com/madhu1297/Hospitality-Analysis/blob/main/data_model-view.png)
 
 # Dashboard View
-![Dashboard view](https://github.com/madhu1297/Hospitality-Analysis/blob/main/Dashboard-view.jpeg)
+![Dashboard view](https://github.com/madhu1297/Hospitality-Analysis/blob/main/Executive_view.png)
+
+# KPI View
+![Dashboard view](https://github.com/madhu1297/Hospitality-Analysis/blob/main/kpi_view.png)
 
 
 
