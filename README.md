@@ -1,7 +1,7 @@
 # Hospitality-Analysis
 
 
-Link to [Interactive Dashboard](https://app.powerbi.com/links/82vyOZ5FQD?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare) 
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTcxZTI1MTAtMmQ5YS00YzhjLTgxMGYtMzk5OWI5NGQzOGNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
 # Problem statement
 Atliq Grands owns multiple five-star hotels across India. They have been in teh hospitality industry for teh past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, teh managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them wif these insights.
